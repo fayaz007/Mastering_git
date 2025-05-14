@@ -1,4 +1,4 @@
-# Hello, Git
+# Heyoo EveryOne, Welcome to by guide 
 
-am adding this from
+-yo Jonny here!
 feature-regsiter branch
